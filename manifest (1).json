@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "study-hopes",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "study-hopes",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
