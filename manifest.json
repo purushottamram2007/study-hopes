@@ -1,0 +1,13 @@
+{
+  "background_color": "#302d2d",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Study Hopes",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Study Hopes",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Study Hopes is an educational app for students to learn, practice and improve their preparation.",
+  "id": "study-hopes"
+}
